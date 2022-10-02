@@ -1,4 +1,4 @@
-# Konkoon-News-Letter-
+# Konkoon-News-Letter-Mailchimp
 Test News letter Nodejs Heroku
 
 Check the website ONLINE at:
